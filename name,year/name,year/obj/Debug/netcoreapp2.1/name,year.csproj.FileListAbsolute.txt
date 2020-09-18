@@ -1,0 +1,11 @@
+C:\Users\Slava\Desktop\visual\name,year\name,year\bin\Debug\netcoreapp2.1\name,year.deps.json
+C:\Users\Slava\Desktop\visual\name,year\name,year\bin\Debug\netcoreapp2.1\name,year.runtimeconfig.json
+C:\Users\Slava\Desktop\visual\name,year\name,year\bin\Debug\netcoreapp2.1\name,year.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\visual\name,year\name,year\bin\Debug\netcoreapp2.1\name,year.dll
+C:\Users\Slava\Desktop\visual\name,year\name,year\bin\Debug\netcoreapp2.1\name,year.pdb
+C:\Users\Slava\Desktop\visual\name,year\name,year\obj\Debug\netcoreapp2.1\name,year.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\visual\name,year\name,year\obj\Debug\netcoreapp2.1\name,year.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\visual\name,year\name,year\obj\Debug\netcoreapp2.1\name,year.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\visual\name,year\name,year\obj\Debug\netcoreapp2.1\name,year.AssemblyInfo.cs
+C:\Users\Slava\Desktop\visual\name,year\name,year\obj\Debug\netcoreapp2.1\name,year.dll
+C:\Users\Slava\Desktop\visual\name,year\name,year\obj\Debug\netcoreapp2.1\name,year.pdb
